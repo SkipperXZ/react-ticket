@@ -1,0 +1,33 @@
+.MuiTableHead-root .MuiTableSortLabel-root,
+.MuiTableHead-root .MuiTableSortLabel-root:hover,
+.MuiTableHead-root .MuiTableSortLabel-root:hover .MuiTableSortLabel-icon,
+.MuiTableHead-root .MuiTableSortLabel-root.MuiTableSortLabel-active.MuiTableSortLabel-root.MuiTableSortLabel-active .MuiTableSortLabel-icon,
+.MuiTableHead-root .MuiButtonBase-root.MuiTableSortLabel-root.MuiTableSortLabel-active,
+.MuiTableHead-root svg.MuiSvgIcon-root{
+  color: white;
+}
+
+.makeStyles-drawerClose-8 svg.MuiSvgIcon-root{
+  color: #4a525f;
+}
+.makeStyles-drawerClose-8 .profile-wrapper{
+  visibility: hidden;
+}
+.MuiTableHead-root{
+  background-color: #4a525f;
+}
+button.btn-action-toggle{
+  font-weight: bold;
+  border-radius: 0;
+  border-bottom: 3px solid transparent;
+}
+.btn-action-toggle.active{
+  border-bottom: 3px solid black;
+}
+.makeStyles-fullwidth-403{
+  width: 100%;
+}
+
+.search-input input{
+  padding: 10px 14px;
+}
